@@ -1,5 +1,5 @@
 # 💫 About Me:
-estudante de ADS<br>.Js | Cybersegurity |<br>em busca da minha primeira oportunidade na área de tecnologia.
+estudante de ADS em busca da minha primeira oportunidade na área de tecnologia.
 
 
 ## 🌐 Socials:
