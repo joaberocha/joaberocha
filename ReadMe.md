@@ -1,5 +1,5 @@
 # 💫 About Me:
-perfil com intuito de mostra um pouco sobre meu nivel de programação, a mais ou menos 1 ano iniciei na area e venho aprendendo diariamente.
+perfil com intuito de mostrar um pouco sobre meu nível de programação, a mais ou menos 1 ano iniciei na área e venho aprendendo diariamente.
 
 
 ## 🌐 Socials:
