@@ -1,5 +1,5 @@
 # 💫 About Me:
-estudante de ADS em busca da minha primeira oportunidade na área de tecnologia.
+perfil com intuito de mostra um pouco sobre meu nivel de programação, a mais ou menos 1 ano iniciei na area e venho aprendendo diariamente.
 
 
 ## 🌐 Socials:
