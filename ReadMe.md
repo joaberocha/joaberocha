@@ -1,5 +1,5 @@
 # 💫 About Me:
-perfil com intuito de mostrar um pouco sobre meu nível de programação, a mais ou menos 1 ano iniciei na área e venho aprendendo diariamente.
+Olá, busco oportunidades na área de desenvolvimento.
 
 
 ## 🌐 Socials:
